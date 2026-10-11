@@ -9,12 +9,12 @@ res_7,Resource bundle 22222,0.42
 res_8,Resource bundle 22221,0.34
 res_9,Resource bundle 11111,0.24
 bot_1m_c1,"Bank bot 1 month, Company 1",0.75
-bot_1m_c2,"Bank bot 1 month, Company 2",1.10
+bot_1m_c2,"Bank bot 1 month, Company 2",1.15
 bot_3m_c1,"Bank bot 3 months, Company 1",1.80
 bot_3m_c2,"Bank bot 3 months, Company 2",3.00
-bot_6m_c1,"Bank bot 6 months, Company 1",4.30
+bot_6m_c1,"Bank bot 6 months, Company 1",4.00
 bot_6m_c2,"Bank bot 6 months, Company 2",5.50
-bot_12m_c1,"Bank bot 12 months, Company 1",6.00
+bot_12m_c1,"Bank bot 12 months, Company 1",7.00
 bot_12m_c2,"Bank bot 12 months, Company 2",10.00
 ph_1,Press help only (per month),9
 ph_2,Press help + Leader + Daily production RSS (per month),15
