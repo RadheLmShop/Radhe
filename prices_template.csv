@@ -1,0 +1,26 @@
+key,item,price
+res_1,Resource bundle 44444 (90 min),0.72
+res_2,Resource bundle 44444 (40 min),1.02
+res_3,Resource bundle 44444 (20 min),1.92
+res_4,Resource bundle 44442,0.54
+res_5,Resource bundle 44440,0.42
+res_6,Resource bundle 40000,0.26
+res_7,Resource bundle 22222,0.42
+res_8,Resource bundle 22221,0.34
+res_9,Resource bundle 11111,0.24
+bot_1m_c1,"Bank bot 1 month, Company 1",0.65
+bot_1m_c2,"Bank bot 1 month, Company 2",1.10
+bot_3m_c1,"Bank bot 3 months, Company 1",1.80
+bot_3m_c2,"Bank bot 3 months, Company 2",3.00
+bot_6m_c1,"Bank bot 6 months, Company 1",3.30
+bot_6m_c2,"Bank bot 6 months, Company 2",5.50
+bot_12m_c1,"Bank bot 12 months, Company 1",6.00
+bot_12m_c2,"Bank bot 12 months, Company 2",10.00
+ph_1,Press help only (per month),9
+ph_2,Press help + Leader + Daily production RSS (per month),15
+atk_1,Leader attack x30,3.5
+atk_2,Customer attack,2
+t1_tier1,"T1 killing Tier 1 (1-1,800 KD, per 1B)",4
+t1_tier2,"T1 killing Tier 2 (1,800-1,970 KD, per 1B)",6
+repeat_off,Repeat order discount on attacks (%),45
+usd_inr,INR per $1 for UPI,100
