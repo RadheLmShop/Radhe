@@ -539,8 +539,8 @@ html[data-theme="day"] .btn:not(.wa):not(.tg):not(.gold){color:var(--ink)}
 <h2 class="sec">Shop</h2>
 <p class="sub">Trusted supply, best prices. Open a category, tap + or Add, then review and pay in your order.</p>
 <div class="perks"><span>⚡ Fast start</span><span>🛡️ Trusted seller</span><span>💳 UPI &amp; Binance</span><span>💬 WhatsApp support</span></div>
-<div class="acc shopacc" id="resources"><button class="acc-h" type="button" aria-expanded="false" aria-controls="resources-b"><span class="ico" data-ic="coin"></span><span><b>Resource bank</b><small>Bundles of food, stone, wood, ore and gold</small><em class="pill">📦 44444 bundle · $0.6</em></span><span class="chev" data-ic="chev"></span></button><div class="acc-b" id="resources-b" hidden>
-<div class="banner"><span class="bi" aria-hidden="true">📦</span><div><b>44444 bundle · $0.6</b><small>1–5 min to start · 90 min to complete</small></div></div>
+<div class="acc shopacc" id="resources"><button class="acc-h" type="button" aria-expanded="false" aria-controls="resources-b"><span class="ico" data-ic="coin"></span><span><b>Resource bank</b><small>Bundles of food, stone, wood, ore and gold</small><em class="pill">📦 44444 bundle · $0.72</em></span><span class="chev" data-ic="chev"></span></button><div class="acc-b" id="resources-b" hidden>
+<div class="banner"><span class="bi" aria-hidden="true">📦</span><div><b>44444 bundle · $0.72</b><small>1–5 min to start · 90 min to complete</small></div></div>
 <div class="grid" id="rgrid"></div>
 </div></div>
 <div class="acc shopacc" id="services"><button class="acc-h" type="button" aria-expanded="false" aria-controls="services-b"><span class="ico" data-ic="grid"></span><span><b>Bank bot subscription</b><small>2 different companies, 99% same function</small><em class="pill">🎁 Free redeem codes</em></span><span class="chev" data-ic="chev"></span></button><div class="acc-b" id="services-b" hidden>
@@ -796,7 +796,7 @@ const hydrate=(root=document)=>root.querySelectorAll('[data-ic]').forEach(e=>{if
 
 /* ---------- catalogue (original data, unchanged) ---------- */
 const bots=[['1 month','0.65','1.10'],['3 months','1.80','3.00'],['6 months','3.30','5.50'],['12 months','6.00','10.00']];
-const res=[['44444','4B','4B','4B','4B','4B','0.60','90 min'],['44444','4B','4B','4B','4B','4B','0.85','40 min'],['44444','4B','4B','4B','4B','4B','1.60','20 min'],['44442','4B','4B','4B','4B','2B','0.45',''],['44440','4B','4B','4B','4B','0','0.35',''],['40000','4B','0','0','0','0','0.22',''],['22222','2B','2B','2B','2B','2B','0.35',''],['22221','2B','2B','2B','2B','1B','0.28',''],['11111','1B','1B','1B','1B','1B','0.20','']];
+const res=[['44444','4B','4B','4B','4B','4B','0.72','90 min'],['44444','4B','4B','4B','4B','4B','1.02','40 min'],['44444','4B','4B','4B','4B','4B','1.92','20 min'],['44442','4B','4B','4B','4B','2B','0.54',''],['44440','4B','4B','4B','4B','0','0.42',''],['40000','4B','0','0','0','0','0.26',''],['22222','2B','2B','2B','2B','2B','0.42',''],['22221','2B','2B','2B','2B','1B','0.34',''],['11111','1B','1B','1B','1B','1B','0.24','']];
 const CAT={
  'Bank bot attacks':[['Leader attack x30 (bank bot)',3.5,1],['Customer attack (bank bot)',2,1]],
  'Bank bot subscription':bots.flatMap(r=>[[r[0]+' bank bot, Company 1',+r[1]],[r[0]+' bank bot, Company 2',+r[2]]]),
