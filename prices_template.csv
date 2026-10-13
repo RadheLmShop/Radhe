@@ -1,13 +1,13 @@
 key,item,price
-res_1,Resource bundle 44444 (90 min),0.72
-res_2,Resource bundle 44444 (40 min),1.02
-res_3,Resource bundle 44444 (20 min),1.92
-res_4,Resource bundle 44442,0.54
-res_5,Resource bundle 44440,0.42
-res_6,Resource bundle 40000,0.26
-res_7,Resource bundle 22222,0.42
-res_8,Resource bundle 22221,0.34
-res_9,Resource bundle 11111,0.24
+res_1,Resource bundle 44444 (90 min),0.63
+res_2,Resource bundle 44444 (40 min),1.00
+res_3,Resource bundle 44444 (20 min),1.90
+res_4,Resource bundle 44442,0.48
+res_5,Resource bundle 44440,0.33
+res_6,Resource bundle 40000,0.21
+res_7,Resource bundle 22222,0.36
+res_8,Resource bundle 22221,0.30
+res_9,Resource bundle 11111,0.22
 bot_1m_c1,"Bank bot 1 month, Company 1",0.75
 bot_1m_c2,"Bank bot 1 month, Company 2",1.15
 bot_3m_c1,"Bank bot 3 months, Company 1",2.10
